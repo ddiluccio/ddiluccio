@@ -1,0 +1,3 @@
+- Ciao! Sono Davide Di Luccio.
+- Sono un full stack developer, appassionato di tecnologia.
+- Sono laureato in Intelligenza Artificiale e Sistemi Informativi.
